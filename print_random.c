@@ -1,12 +1,9 @@
-//Given Project code
-#include <stdlib.h>
-#include <stdio.h>
-#include <time.h>
+//Given Project code`
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
-char randchar();
+char randchar(); // Function prototype
 
 int main()
 {
